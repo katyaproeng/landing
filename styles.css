@@ -2,7 +2,11 @@
    Katya ProEng Landing Page Styles
    Mobile-First with Scroll Animations
    ============================================== */
-
+@font-face {
+    font-family: 'Makarenkov';
+    src: url('makarenkov.ttf') format('truetype');
+    font-weight: 700;
+}
 * {
     margin: 0;
     padding: 0;
