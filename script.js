@@ -4,7 +4,7 @@
 
 const CONFIG = {
     // ВАЖНО: Замени этот URL на Web App URL из твоего Google Apps Script
-    GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbwqtxJk2fQng6fdveOdnyznKGF3wDxiIJPv7M6CAym8ot76jAojRCYiM08a8cpqn2AqvQ/exec',
+    GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxBF-s8j1z-W1pFNNlU2OG6M7d71K69D4uM0UVIlo986lbiL5DXe3mzMc4p2fKllRPc/exec',
     
     // URL бесплатного материала
     NOTION_URL: 'https://www.notion.so/English-collocations-katya-proeng-284ecf12da6e80d2a797cb7b92229792',
